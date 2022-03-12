@@ -1,0 +1,15 @@
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.csproj.AssemblyReference.cache
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.AssemblyInfoInputs.cache
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.AssemblyInfo.cs
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.csproj.CoreCompileInputs.cache
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\bin\Debug\net6.0\aula43.exe
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\bin\Debug\net6.0\aula43.deps.json
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\bin\Debug\net6.0\aula43.runtimeconfig.json
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\bin\Debug\net6.0\aula43.dll
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\bin\Debug\net6.0\ref\aula43.dll
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\bin\Debug\net6.0\aula43.pdb
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.dll
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\ref\aula43.dll
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.pdb
+D:\Artenir Pinho\Documents\cursoDOTNET\aula43\obj\Debug\net6.0\aula43.genruntimeconfig.cache
